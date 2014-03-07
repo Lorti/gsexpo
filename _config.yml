@@ -1,17 +1,17 @@
-name:             GameStage Expo // 24.–26. September
-markdown:         redcarpet
-pygments:         false
-exclude:          [
-					'LICENSE',
-					'README.md',
-                    '.sass-cache',
-                    'node_modules',
-                    'scss',
-                    'Gruntfile.js',
-                    'package.json',
-                    '*.sublime-project',
-                    '*.sublime-workspace',
-                    '*.bat',
-                    '*.map',
-                    '*.zip'
-                  ]
+name:     GameStage Expo / 12.–14. September / Tabakfabrik Linz
+markdown: redcarpet
+pygments: false
+exclude:  [
+					  'LICENSE',
+					  'README.md',
+            '.sass-cache',
+            'node_modules',
+            'scss',
+            'Gruntfile.js',
+            'package.json',
+            '*.sublime-project',
+            '*.sublime-workspace',
+            '*.bat',
+            '*.map',
+            '*.zip'
+          ]
