@@ -2,3 +2,5 @@ _site
 .sass-cache/
 node_modules/
 *.map
+gsexpo.sublime-project
+gsexpo.sublime-workspace
