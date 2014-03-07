@@ -55,7 +55,7 @@ module.exports = function (grunt) {
 				tasks: ['sass', 'autoprefixer']
 			},
 			html: {
-				files: ['css/*.css', '*.html', '*.markdown', '_layouts/**', '_posts/**'],
+				files: ['css/*.css', '*.html', '*/**.markdown', '_layouts/**', '_posts/**'],
 				tasks: ['jekyll:build']
 			}
 		},
