@@ -21,17 +21,10 @@ module.exports = function (grunt) {
             }
 	    },
 		jekyll: {
-			serve: {
-				options: {
-					serve: true,
-					dest: '_site/',
-					config: '_config.yml'
-				}
-			},
-			build: {
+			target: {
 				options: {
 					dest: '_site/',
-					config: '_config.yml'
+					config: '_local.yml'
 				}
 			}
 		},
@@ -56,7 +49,7 @@ module.exports = function (grunt) {
 			},
 			html: {
 				files: ['css/*.css', '*.html', '*/**.markdown', '_layouts/**', '_posts/**'],
-				tasks: ['jekyll:build']
+				tasks: ['jekyll']
 			}
 		},
 		connect : {
