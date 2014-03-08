@@ -1,6 +1,7 @@
 name:     GameStage Expo / 12.–14. September / Tabakfabrik Linz
 markdown: redcarpet
 pygments: false
+baseurl:  /gsexpo
 exclude:  [
             'LICENSE',
             'README.md',
