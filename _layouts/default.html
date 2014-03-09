@@ -1,71 +1,67 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>{{ page.title }}</title>
-	<meta name="viewport" content="width=device-width"> 
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width"> 
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 </head>
 <body>
 
-	<div class="site">
-		<div class="header">
-			<h1 class="title"><a href="/">{{ site.name }}</a></h1>
-			<a class="extra" href="/">home</a>
-		</div>
+  <div class="site">
+    <div class="header">
+      <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+      <a class="extra" href="/">home</a>
+    </div>
 
-		{{ content }}
+    {{ content }}
 
+    <section class="pagesection" id="aboutSection">
+      {% capture about %}{% include about.markdown %}{% endcapture %}
+      {{ about | markdownify }}
+    </section>
 
+    <section class="pagesection" id="exhibitorsSection">
+      {% capture exhibitor %}{% include exhibitors.markdown %}{% endcapture %}
+      {{ exhibitor | markdownify }}
+    </section>
 
-		<section class="pagesection" id="aboutSection">
-			<!-- was ist die game expo linz -->
-			{% capture about %}{% include about.markdown %}{% endcapture %}
-			{{ about | markdownify }}
-		</section>
+    <section class="pagesection" id="gameMuseumSection">
+      {% capture gameMuseum %}{% include gamemuseum.markdown %}{% endcapture %}
+      {{ gameMuseum | markdownify }}
+    </section>
+    
+    <section class="pagesection" id="retroExchangeSection">
+      {% capture retroexchange %}{% include retroexchange.markdown %}{% endcapture %}
+      {{ retroexchange | markdownify }}
+    </section>
+    
+    <section class="pagesection" id="esportsSection">
+      {% capture esports %}{% include esports.markdown %}{% endcapture %}
+      {{ esports | markdownify }}
+    </section>
 
-		<section class="pagesection" id="exhibitorsSection">
-			{% capture exhibitor %}{% include exhibitors.markdown %}{% endcapture %}
-			{{ exhibitor | markdownify }}
-		</section>
+    <section class="pagesection" id="partnerSection">
+      {% capture partner %}{% include partner.markdown %}{% endcapture %}
+      {{ partner | markdownify }}
+    </section>
 
-		<section class="pagesection" id="gameMuseumSection">
-			{% capture gameMuseum %}{% include gamemuseum.markdown %}{% endcapture %}
-			{{ gameMuseum | markdownify }}
-		</section>
-		
-		<section class="pagesection" id="retroExchangeSection">
-			{% capture retroexchange %}{% include retroexchange.markdown %}{% endcapture %}
-			{{ retroexchange | markdownify }}
-		</section>
-		
-		<section class="pagesection" id="esportsSection">
-			{% capture esports %}{% include esports.markdown %}{% endcapture %}
-			{{ esports | markdownify }}
-		</section>
+    <section class="pagesection" id="contactSection">
+      {% capture contact %}{% include contact.markdown %}{% endcapture %}
+      {{ contact | markdownify }}
+    </section>
 
-		<section class="pagesection" id="partnerSection">
-			{% capture partner %}{% include partner.markdown %}{% endcapture %}
-			{{ partner | markdownify }}
-		</section>
+    <section class="pagesection" id="activitiesSection">
+      {% capture activities %}{% include activities.markdown %}{% endcapture %}
+      {{ activities | markdownify }}
+    </section>
 
-		<section class="pagesection" id="contactSection">
-			{% capture contact %}{% include contact.markdown %}{% endcapture %}
-			{{ contact | markdownify }}
-		</section>
-
-		<section class="pagesection" id="activitiesSection">
-			{% capture activities %}{% include activities.markdown %}{% endcapture %}
-			{{ activities | markdownify }}
-		</section>
-
-	
-		<div class="footer">
-			{% capture footer %}{% include footer.markdown %}{% endcapture %}
-			{{ footer | markdownify }}
-		</div>
-	</div>
+    <div class="footer">
+      {% capture footer %}{% include footer.markdown %}{% endcapture %}
+      {{ footer | markdownify }}
+    </div>
+  </div>
 
 </body>
 </html>
