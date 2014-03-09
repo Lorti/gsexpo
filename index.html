@@ -3,12 +3,40 @@ layout: default
 title: Your New Jekyll Site
 ---
 
-<div id="home">
-  <h1>Partners</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 
-    {% endfor %}
-  </ul>
-</div>
+
+<section class="row pagesection" id="aboutSection">
+  <!-- was ist die game expo linz -->
+  {% capture about %}{% include about.markdown %}{% endcapture %}
+  {{ about | markdownify }}
+</section>
+
+<section class="row pagesection" id="exhibitorsSection">
+  {% capture exhibitor %}{% include exhibitors.markdown %}{% endcapture %}
+  {{ exhibitor | markdownify }}
+</section>
+
+<section class="row pagesection" id="gameMuseumSection">
+  {% capture gameMuseum %}{% include gamemuseum.markdown %}{% endcapture %}
+  {{ gameMuseum | markdownify }}
+</section>
+
+<section class="row pagesection" id="retroExchangeSection">
+  {% capture retroexchange %}{% include retroexchange.markdown %}{% endcapture %}
+  {{ retroexchange | markdownify }}
+</section>
+
+<section class="row pagesection" id="esportsSection">
+  {% capture esports %}{% include esports.markdown %}{% endcapture %}
+  {{ esports | markdownify }}
+</section>
+
+<section class="row pagesection" id="partnerSection">
+  {% capture partner %}{% include partner.markdown %}{% endcapture %}
+  {{ partner | markdownify }}
+</section>
+
+<section class="row pagesection" id="contactSection">
+  {% capture contact %}{% include contact.markdown %}{% endcapture %}
+  {{ contact | markdownify }}
+</section>

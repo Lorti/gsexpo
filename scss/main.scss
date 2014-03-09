@@ -1,5 +1,54 @@
-body { 
-	margin: 64px;
-	color: #232323;
-	background-color: #f4f4f4;
+@import 'variables';
+
+*, *:before, *:after{
+	box-sizing: border-box;
 }
+
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+  }
+
+  .cf:after {
+    clear: both;
+  }
+
+body {
+ margin: 0;
+ font-family: 'Open Sans', sans-serif;
+}
+
+a{
+ text-decoration: none;
+}
+
+
+
+.row{
+  max-width: 60em;
+  margin: 0 auto;
+}
+
+
+@mixin lightLink(){
+  color: $fontColorLight;
+  &:hover{
+    color: darken($fontColorLight, 10);
+  }
+  &:visited{
+    color: $fontColorLight;
+  }
+  &:active{
+    color: $fontSpotColor;
+  }
+}
+
+
+
+
+
+@import 'navigation';
+
+@import 'mediaQueries';

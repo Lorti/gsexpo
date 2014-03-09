@@ -5,55 +5,33 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>{{ page.title }}</title>
 	<meta name="viewport" content="width=device-width"> 
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 </head>
 <body>
 
 	<div class="site">
-		<div class="header">
+		<div class="mainNavigation" role="navigation">
+			<div class="mainNavigation_button" id="menuToggle"><span>Menu</span></div>
+			<ul class="mainNavigation_container row cf">
+				<li class="mainNavigation_item"><a href="#aboutSection">About</a></li>
+				<li class="mainNavigation_item"><a href="#exhibitorsSection">Aussteller</a></li>
+				<li class="mainNavigation_item"><a href="#gameMuseumSection">Game Museum</a></li>
+				<li class="mainNavigation_item"><a href="#retroExchangeSection">Retrobörse</a></li>
+				<li class="mainNavigation_item"><a href="#esportsSection">e-Sports</a></li>
+				<li class="mainNavigation_item"><a href="#partnerSection">Partner</a></li>
+				<li class="mainNavigation_item"><a href="#contactSection">Kontakt</a></li>
+			</ul>
+		</div>
+
+		<!-- <div class="header">
 			<h1 class="title"><a href="/">{{ site.name }}</a></h1>
 			<a class="extra" href="/">home</a>
-		</div>
+		</div> -->
 
 		{{ content }}
 
 
-
-		<section class="pagesection" id="aboutSection">
-			<!-- was ist die game expo linz -->
-			{% capture about %}{% include about.markdown %}{% endcapture %}
-			{{ about | markdownify }}
-		</section>
-
-		<section class="pagesection" id="exhibitorsSection">
-			{% capture exhibitor %}{% include exhibitors.markdown %}{% endcapture %}
-			{{ exhibitor | markdownify }}
-		</section>
-
-		<section class="pagesection" id="gameMuseumSection">
-			{% capture gameMuseum %}{% include gamemuseum.markdown %}{% endcapture %}
-			{{ gameMuseum | markdownify }}
-		</section>
-		
-		<section class="pagesection" id="retroExchangeSection">
-			{% capture retroexchange %}{% include retroexchange.markdown %}{% endcapture %}
-			{{ retroexchange | markdownify }}
-		</section>
-		
-		<section class="pagesection" id="esportsSection">
-			{% capture esports %}{% include esports.markdown %}{% endcapture %}
-			{{ esports | markdownify }}
-		</section>
-
-		<section class="pagesection" id="partnerSection">
-			{% capture partner %}{% include partner.markdown %}{% endcapture %}
-			{{ partner | markdownify }}
-		</section>
-
-		<section class="pagesection" id="contactSection">
-			{% capture contact %}{% include contact.markdown %}{% endcapture %}
-			{{ contact | markdownify }}
-		</section>
 
 	
 		<div class="footer">
@@ -61,6 +39,7 @@
 			{{ footer | markdownify }}
 		</div>
 	</div>
-
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/js/main.js"></script>
 </body>
 </html>
