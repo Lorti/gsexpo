@@ -55,6 +55,11 @@
 			{{ contact | markdownify }}
 		</section>
 
+		<section class="pagesection" id="activitiesSection">
+			{% capture activities %}{% include activities.markdown %}{% endcapture %}
+			{{ activities | markdownify }}
+		</section>
+
 	
 		<div class="footer">
 			{% capture footer %}{% include footer.markdown %}{% endcapture %}
