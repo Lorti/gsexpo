@@ -24,15 +24,19 @@
       </ul>
     </nav>
 
-    <header class="header row cf">
-      <h1>GameStage Expo</h1>
+    <header class="header">
+      <div class="row cf">
+        <h1>GameStage Expo</h1>
+      </div>
     </header>
 
     {{ content }}
 
-    <footer class="footer row cf">
-      {% capture footer %}{% include footer.markdown %}{% endcapture %}
-      {{ footer | markdownify }}
+    <footer class="footer">
+      <div class="row cf">
+        {% capture footer %}{% include footer.markdown %}{% endcapture %}
+        {{ footer | markdownify }}
+      </div>
     </footer>
   </div>
 
