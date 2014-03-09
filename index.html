@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: site.name
 ---
-
-
 
 <section class="row pagesection" id="aboutSection">
   <!-- was ist die game expo linz -->
@@ -39,4 +37,9 @@ title: Your New Jekyll Site
 <section class="row pagesection" id="contactSection">
   {% capture contact %}{% include contact.markdown %}{% endcapture %}
   {{ contact | markdownify }}
+</section>
+
+<section class="row pagesection" id="activitiesSection">
+  {% capture activities %}{% include activities.markdown %}{% endcapture %}
+  {{ activities | markdownify }}
 </section>
