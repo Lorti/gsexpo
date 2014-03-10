@@ -4,6 +4,7 @@
 	box-sizing: border-box;
 }
 
+html, body, .site { height: 100%; }
 
 .cf:before,
 .cf:after {
@@ -48,5 +49,6 @@ a{
 
 
 @import 'navigation';
+@import 'header';
 @import 'footer';
 @import 'mediaQueries';
