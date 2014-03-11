@@ -1,10 +1,46 @@
-.header {
-  background: url(../images/tabakfabrik.jpg) center top no-repeat;
-  background-size: cover;
+.Header {
   padding-top: 42.85%;
-  max-height: 100%;
+  overflow: hidden;
+  z-index: -1;
+  position: relative;
+  background: url(../images/Tabakfabrik.jpg) center center no-repeat;
+  background-size: cover;
 }
-.headerEventInfo {
-  padding: 1em;
-  background-color: rgba(255,255,255,.85);
+
+.Header-background {
+  width: 100%;
+}
+
+.Header-eventInfo {
+  position: absolute;
+  left: 0;
+  top: 66% - 33% / 2;
+  min-height: 33%;
+  min-width: 66%;
+  padding: 2em;
+  background-color: #fff;
+  background-color: rgba(255,255,255,.75);
+  background-image: linear-gradient(to right, rgba(255,255,255,1), rgba(255,255,255,0));
+  transform: translateX(10%) rotateZ(-3.5deg);
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+/* This helps us tremendously in getting this fucker responsive. */
+.Header-eventInfo-wrapper {
+  font-size: 16px;
+}
+
+.Header-eventInfo-title { width: 40em; }
+.Header-eventInfo-description {
+  font-size: 1em * 1.5;
+  padding-left: 9em * (1 / 1.5);
+  font-weight: bold;
+}
+.Header-eventInfo-date,
+.Header-eventInfo-location {
+  font-size: 1em;
+  padding-left: 9em;
 }
