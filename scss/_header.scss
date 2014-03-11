@@ -1,17 +1,17 @@
+$image-ratio: 21 / 9;
+
 .Header {
-  padding-top: 42.85%;
   overflow: hidden;
   z-index: -1;
   position: relative;
-  background: url(../images/tabakfabrik.jpg) center center no-repeat;
-  background-size: cover;
+  max-height: 1920px / $image-ratio;
 }
 
 .Header-background {
   width: 100%;
 }
 
-.Header-eventInfo {
+.Header-bar {
   position: absolute;
   left: 0;
   top: 66% - 33% / 2;
@@ -29,18 +29,18 @@
 }
 
 /* This helps us tremendously in getting this fucker responsive. */
-.Header-eventInfo-wrapper {
+.Header-bar-eventInfo {
   font-size: 16px;
 }
 
-.Header-eventInfo-title { width: 40em; }
-.Header-eventInfo-description {
+.Header-bar-eventInfo-title { width: 40em; }
+.Header-bar-eventInfo-description {
   font-size: 1em * 1.5;
-  padding-left: 9em * (1 / 1.5);
+  margin-left: 9em * (1 / 1.5);
   font-weight: bold;
 }
-.Header-eventInfo-date,
-.Header-eventInfo-location {
+.Header-bar-eventInfo-date,
+.Header-bar-eventInfo-location {
   font-size: 1em;
-  padding-left: 9em;
+  margin-left: 9em;
 }
