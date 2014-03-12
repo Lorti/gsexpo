@@ -35,18 +35,30 @@ a{
 
 @mixin lightLink(){
   color: $fontColorLight;
-  &:hover{
-    color: darken($fontColorLight, 10);
-  }
   &:visited{
     color: $fontColorLight;
   }
+  &:hover{
+    color: darken($fontColorLight, 10);
+  }
+}
 
+@mixin standardLink(){
+  color: $gameStagePrimaryColor;
+  text-decoration: none;
+  transition: color 175ms;
+  &:visited{
+    color: darken($gameStagePrimaryColor, 5);
+  }
+  &:hover{
+    color: $gameStageSecondaryColor;
+  }
 }
 
 
-
-
+a{
+  @include standardLink();
+}
 
 @import 'navigation';
 @import 'header';
