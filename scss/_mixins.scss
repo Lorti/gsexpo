@@ -1,0 +1,36 @@
+@mixin breakpoint($point, $value: 0) {
+  @if $point == "small" {
+    @media (min-width: 320px) { @content; }
+  }
+  @else if $point == "medium" {
+    @media (min-width: 768px) { @content; }
+  }
+  @else if $point == "large" {
+    @media (min-width: 1280px) { @content; }
+  }
+  @else {
+    @media ($point: $value) { @content; }
+  }
+}
+
+@mixin lightLink(){
+  color: $fontColorLight;
+  &:visited{
+    color: $fontColorLight;
+  }
+  &:hover{
+    color: darken($fontColorLight, 10);
+  }
+}
+
+@mixin standardLink(){
+  color: $gameStagePrimaryColor;
+  text-decoration: none;
+  transition: color 175ms;
+  &:visited{
+    color: darken($gameStagePrimaryColor, 5);
+  }
+  &:hover{
+    color: $gameStageSecondaryColor;
+  }
+}
