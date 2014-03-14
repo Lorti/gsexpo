@@ -1,3 +1,4 @@
-## Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+## About
 
-Cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Wir präsentieren in den Hallen der Tabakfabrik Games, Firmen und Projekte.
+Im besonderen wollen wir eine Plattform für lokale österreichische Entwickler bieten.
