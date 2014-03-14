@@ -1,1 +1,1 @@
-## e-Sports
+## LAN Party
