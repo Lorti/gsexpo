@@ -1,9 +1,12 @@
 ## Kontakt
 
-Verein zu Förderung der Computerspielkultur - GameStage  
-[gamestage@radiatedpixel.com][mail]
+**Verein zu Förderung der Computerspielkultur - GameStage**
 
-http://gamestage.radiatedpixel.com/about/
+Mail: [gamestage@radiatedpixel.com](mail:gamestage@radiatedpixel.com)
 
-Unsere Facebook-Gruppe: https://www.facebook.com/GameCraftLinz
+Homepage: [gamestage.radiatedpixel.com](http://gamestage.radiatedpixel.com/about/)
+
+Unsere Facebook-Gruppe: [facebook.com/GameCraftLinz](https://www.facebook.com/GameCraftLinz)
+
+Der Info Verteiler: [groups.google.com/forum/#!forum/gamestage-info](https://groups.google.com/forum/#!forum/gamestage-info)
 
