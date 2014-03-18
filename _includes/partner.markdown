@@ -1,5 +1,7 @@
 ## Partner
 
+* GameStage
+* Andranik Ghalustans / bildschrimsprünge
 * Tabakfabrik Linz
 * Radiated Pixel
 * Retrobörse
