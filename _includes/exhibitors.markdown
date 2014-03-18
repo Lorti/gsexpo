@@ -18,7 +18,7 @@
 <li>Gamebox</li>
 <li>Gabor Varga Flipper</li>
 <li>Hi Tech Computer</li>
-<li>Markus Schodt</li>
+<li>Markus Schrodt</li>
 <li>Metaware</li>
 <li>Mipumi</li>
 </ul>
