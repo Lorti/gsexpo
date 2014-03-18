@@ -7,4 +7,4 @@ Eine Zeitreise mit über 200 erlebbaren Exponaten bei dem der interessierte Besu
 
 <iframe src="//player.vimeo.com/video/77685023" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/77685023">Retroperspektiven 2013</a> from <a href="http://vimeo.com/klausn">klausn</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-Im Video zu sehen: die von uns Kuratierte und organisierte Ausstellung beim Ars Electronica Festival 2013.
+Im Video zu sehen: die von uns kuratierte und organisierte Ausstellung beim Ars Electronica Festival 2013.
