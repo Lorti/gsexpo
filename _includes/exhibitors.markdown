@@ -6,15 +6,19 @@
 <ul>
 <li>Austria Game Jam</li>
 <li>Broken Rules</li>
+<li>ConverTTable</li>
 <li>Cyberith</li>
 <li>Dunium</li>
+<li>Eurocon</li>
 <li>Gabor Varga Flipper</li>
 <li>Hi Tech Computer</li>
-<li>ConverTTable</li>
+
 </ul>
 </td>
 <td>
 <ul>
+<li>Markus Schodt</li>
+<li>Metaware</li>
 <li>Mipumi</li>
 <li>play:vienna</li>
 <li>Retroguru</li>
