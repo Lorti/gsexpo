@@ -1,4 +1,4 @@
-## About
+## Über GameStage Expo
 
 Wir präsentieren in den Hallen der Tabakfabrik auf über 5000 m2 Games, Firmen und Projekte.  
 Im besonderen wollen wir :  
