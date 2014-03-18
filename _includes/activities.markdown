@@ -18,12 +18,7 @@
 * Global Game Jam Linz, 24. Jänner 2014, Raumschiff
 * GameStage@Raumschiff, 28.–31. Jänner 2014, Raumschiff
 
-### Geplante Aktivitäten
-* Arcadeautomatensammlung in der Tabakfabrik Linz zugänglich machen
-* GameStage@AEC, 16. Mai 2014
-* Teilnahme am Ars Electronica Festival 2014
-* Teilnahme am Gamefest 2014
-* GameStage@AEC, noch nicht fixierter Herbsttermin
+
 
 <img src="{{ site.baseurl }}/images/gamestage.jpg" alt="Impressionen der vergangenen GameStage@AEC-Veranstaltungen">
 
