@@ -5,5 +5,5 @@
 * Retrobörse
 * in-ga.me
 * Vice Alps
-* Calo Hofmann
+* Carlo Hofmann
 * ... sei dabei und beteilige dich als Partner!
