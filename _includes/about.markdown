@@ -9,7 +9,7 @@ Im besonderen wollen wir :
 * Impulse und Reflektionen über Produktion, Kunst, Kreativität, Konsum und Kultur anstossen
 * Spiele und Produktion in Österreich greifbar machen 
 
-Zur Verfügung stehen 2 Stockwerke in Bau1, die Retrobörse wird in der Lösehalle stattfinden.
+Zur Verfügung stehen in Summe über 6000m2 : 2 Stockwerke in Bau1, die Retrobörse wird in der Lösehalle stattfinden.
 
 <img src="http://www.tabakfabrik-linz.at/images/content/Gesamtuebersicht_696.jpg" alt="Tabakfabrik">
 
