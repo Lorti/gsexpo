@@ -10,16 +10,20 @@
 <li>Cyberith</li>
 <li>Dunium</li>
 <li>Eurocon</li>
-<li>Gabor Varga Flipper</li>
-<li>Hi Tech Computer</li>
-
 </ul>
 </td>
 <td>
 <ul>
+<li>Gamebox</li>
+<li>Gabor Varga Flipper</li>
+<li>Hi Tech Computer</li>
 <li>Markus Schodt</li>
 <li>Metaware</li>
 <li>Mipumi</li>
+</ul>
+</td>
+<td>
+<ul>
 <li>play:vienna</li>
 <li>Retroguru</li>
 <li>Richard Pyrker</li>
