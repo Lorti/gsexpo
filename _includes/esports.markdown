@@ -1,1 +1,1 @@
-## LAN Party
+## LAN-Party

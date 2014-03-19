@@ -1,3 +1,7 @@
 ## Impressum
-Verein zu Förderung der Computerspielkultur - GameStage | Stechergasse 1/8 4020 Linz | gamestage@radiatedpixel.com
+
+Verein zu Förderung der Computerspielkultur – GameStage<br>
+Stechergasse 1/8<br>
+4020 Linz<br>
+[gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com)
 

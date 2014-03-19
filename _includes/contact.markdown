@@ -2,7 +2,7 @@
 
 **Verein zu Förderung der Computerspielkultur - GameStage**
 
-Mail: [gamestage@radiatedpixel.com](mail:gamestage@radiatedpixel.com)
+Mail: [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com)
 
 Homepage: [gamestage.radiatedpixel.com](http://gamestage.radiatedpixel.com/about/)
 

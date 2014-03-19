@@ -28,11 +28,13 @@ a {
   text-decoration: none;
   @include standardLink;
 }
-img { width: 100%; }
+img { max-width: 100%; }
 
 
 .row {
-  max-width: 60em;
+  max-width: 48em;
+  padding-left: 5%;
+  padding-right: 5%;
   margin: 0 auto;
 }
 
@@ -41,4 +43,4 @@ img { width: 100%; }
 @import "navigation";
 @import "header";
 @import "footer";
-@import "mediaQueries";
+@import "video";

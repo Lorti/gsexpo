@@ -37,10 +37,10 @@
 </tr>
 </table>
 
-Bitte kontaktiert uns unter gamestage@radiatedpixel.com wenn ihr euch unverbindlich vorstellen könnt mit dabei zu sein.  
+Bitte kontaktiert uns unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com) wenn ihr euch unverbindlich vorstellen könnt mit dabei zu sein.
 Firmen, Vereine, Personen oder Projekte mit Games Kontext sind herzlich wilkommen!
 
-Eine verbindliche Anmeldung wirds geben wenn alle Konditionen geklärt sind,  
+Eine verbindliche Anmeldung wirds geben wenn alle Konditionen geklärt sind,
 wir versuchen die Teilnahmekosten speziell für kleinere Firmen möglichst gering zu halten!
 
 
