@@ -1,5 +1,7 @@
 ## Veranstaltungs- und Aktivitätsrückblick
 
+[gamestage.radiatedpixel.com/veranstaltungsarchiv][gamestage-events]
+
 * Zokken #1, 8. Juni 2011, Kapu
 * Zokken #2, 22. Oktober 2011, Kunstraum
 * Zokken #3, 10. März 2012, Kunstraum
@@ -25,6 +27,7 @@
 [competitivegames]: http://gamestage.radiatedpixel.com/competitive-games/
 [tufelixaustrialude]: http://gamestage.radiatedpixel.com/tu-felix-austria-lude/
 [spielstdunochoderbaustduschon]: http://gamestage.radiatedpixel.com/spielst-du-noch-oder-baust-du-schon/  
+[gamestage-events]: http://gamestage.radiatedpixel.com/veranstaltungsarchiv/
 
 [thegoodthebadandthebloody]: http://gamestage.radiatedpixel.com/the-good-the-bad-and-the-bloody/
 [familydays]: http://gamestage.radiatedpixel.com/good-game-bad-game/
