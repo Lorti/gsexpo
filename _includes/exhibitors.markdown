@@ -5,6 +5,7 @@
       <ul>
         <li>Alex Terczka</li>
         <li>Austria Game Jam</li>
+        <li>AUTplay</li>
         <li>Broken Rules</li>
         <li>ConverTTable</li>
         <li>Cyberith</li>
@@ -20,13 +21,14 @@
        <li>Markus Schrodt</li>
        <li>Metaware</li>
        <li>Mipumi</li>
+       <li>play:vienna</li>
      </ul>
    </div><!--
  --><div class="grid__item lap--one-third">
      <ul>
-       <li>play:vienna</li>
        <li>polycular</li>
        <li>Rainer Sigl</li>
+       <li>Redox Game Labs</li>
        <li>Retroguru</li>
        <li>Richard Pyrker</li>
        <li>Radiated Pixel</li>
