@@ -36,7 +36,7 @@
    </div>
 </div>
 <em>F: "Was wirds Kosten?"</em>  
-<em>A: Wir wissen es noch nicht, aber die Teilnahme soll so günstig wie möglich werden. </em> 
+<em>A: Wir wissen es noch nicht, aber die Teilnahme soll so günstig wie möglich werden.</em>   
 Vieles hängt davon ab ob wir Partner und Sponsoren finden die bei der Umsetzung unterstützen.  
 Wenn es soweit ist werden wir ein konkretes Angebot machen - bis dahin sind alle Zusagen natürlich unverbindlich.
 
