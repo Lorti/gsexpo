@@ -36,9 +36,11 @@
    </div>
 </div>
 <em>F: "Was wirds Kosten?"</em>
-A: Wir wissen es noch nicht, aber die Teilnahme soll so günstig wie möglich werden.
-Vieles hängt davon ab ob wir Partner und Sponsoren finden die bei der Umsetzung unterstützen.
+
+A: Wir wissen es noch nicht, aber die Teilnahme soll so günstig wie möglich werden.  
+Vieles hängt davon ab ob wir Partner und Sponsoren finden die bei der Umsetzung unterstützen.  
 Wenn es soweit ist werden wir ein konkretes Angebot machen - bis dahin sind alle Zusagen natürlich unverbindlich.
+
 
 
 Bitte kontaktiert uns unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com) wenn ihr euch unverbindlich vorstellen könnt mit dabei zu sein.
