@@ -33,6 +33,7 @@
        <li>Retroguru</li>
        <li>Richard Pyrker</li>
        <li>Radiated Pixel</li>
+       <li>Spraylight</li>
        <li>Virtual Dojo</li>
        <li>Zeppelin Studio</li>
      </ul>
