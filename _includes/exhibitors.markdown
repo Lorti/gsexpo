@@ -9,6 +9,7 @@
         <li>Broken Rules</li>
         <li>ConverTTable</li>
         <li>Cyberith</li>
+        <li>Datadealer</li>
         <li>Dunium</li>
         <li>Eurocon</li>
       </ul>
