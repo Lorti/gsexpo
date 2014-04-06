@@ -20,6 +20,7 @@
        <li>Gabor Varga Flipper</li>
        <li>Hi Tech Computer</li>
        <li>Ilikescifi Games</li>
+       <li>Kultur & Spiel</li>
        <li>Markus Schrodt</li>
        <li>Metaware</li>
        <li>Mipumi</li>
@@ -34,6 +35,7 @@
        <li>Retroguru</li>
        <li>Richard Pyrker</li>
        <li>Radiated Pixel</li>
+       <li>Spieletreff-Linz</li>
        <li>Spraylight</li>
        <li>Virtual Dojo</li>
        <li>Zeppelin Studio</li>
