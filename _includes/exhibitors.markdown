@@ -9,6 +9,7 @@
         <li>Broken Rules</li>
         <li>ConverTTable</li>
         <li>Cyberith</li>
+        <li>Coolermaster</li>
         <li>Datadealer</li>
         <li>Dunium</li>
         <li>Eurocon</li>
@@ -16,6 +17,7 @@
     </div><!--
  --><div class="grid__item lap--one-third">
      <ul>
+       <li>FH Hagenberg</li>
        <li>Gamebox</li>
        <li>Gabor Varga Flipper</li>
        <li>Hi Tech Computer</li>
@@ -23,12 +25,14 @@
        <li>Kultur & Spiel</li>
        <li>Markus Schrodt</li>
        <li>Metaware</li>
+       <li>Microsoft</li>
        <li>Mipumi</li>
-       <li>play:vienna</li>
+       <li>Nvidia</li>
      </ul>
    </div><!--
  --><div class="grid__item lap--one-third">
      <ul>
+       <li>play:vienna</li>
        <li>polycular</li>
        <li>Rainer Sigl</li>
        <li>Redox Game Labs</li>
