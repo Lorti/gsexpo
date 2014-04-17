@@ -13,11 +13,11 @@
         <li>Datadealer</li>
         <li>Dunium</li>
         <li>Eurocon</li>
+        <li>FH Hagenberg</li>
       </ul>
     </div><!--
  --><div class="grid__item lap--one-third">
      <ul>
-       <li>FH Hagenberg</li>
        <li>Gamebox</li>
        <li>Gabor Varga Flipper</li>
        <li>Hi Tech Computer</li>
