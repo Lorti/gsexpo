@@ -23,6 +23,7 @@
        <li>Hi Tech Computer</li>
        <li>Ilikescifi Games</li>
        <li>Kultur & Spiel</li>
+       <li>Kunstuniversität Linz Mediengestaltung</li>
        <li>Markus Schrodt</li>
        <li>Metaware</li>
        <li>Microsoft</li>
