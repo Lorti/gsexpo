@@ -9,3 +9,9 @@
 * Vice Alps
 * Carlo Hofmann
 * ... sei dabei und beteilige dich als Partner!
+
+### Sponsoren
+
+### Friends
+
+
