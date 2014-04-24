@@ -11,7 +11,7 @@ Im besonderen wollen wir :
 
 Zur Verfügung stehen in Summe über 6000m2 : 2 Stockwerke in Bau1, die Retrobörse wird in der Lösehalle stattfinden.
 
-<img src="http://www.tabakfabrik-linz.at/images/content/Gesamtuebersicht_696.jpg" alt="Tabakfabrik">
+<img src="http://www.tabakfabrik-linz.at/wp-content/uploads/2014/04/tfl_gesamt_140131.jpg" alt="Tabakfabrik">
 
 
 
