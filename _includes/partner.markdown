@@ -1,16 +1,19 @@
 ## Partner
 
-* GameStage
-* Andranik Ghalustians / Bildschirmsprünge
 * Tabakfabrik Linz
+* Andranik Ghalustians / Bildschirmsprünge
 * Radiated Pixel
 * Retrobörse
+
+
 * in-ga.me
 * Vice Alps
 * Carlo Hofmann
-* ... sei dabei und beteilige dich als Partner!
+
 
 ### Sponsoren
+* ... sei dabei und beteilige dich als Partner oder Sponsor!
+
 
 ### Friends
 
