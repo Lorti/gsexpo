@@ -22,6 +22,7 @@
        <li>Gabor Varga Flipper</li>
        <li>Hi Tech Computer</li>
        <li>Ilikescifi Games</li>
+       <li>Intel</li>
        <li>Kultur & Spiel</li>
        <li>Kunstuniversität Linz Mediengestaltung</li>
        <li>Markus Schrodt</li>
@@ -47,11 +48,12 @@
      </ul>
    </div>
 </div>
+<br/>
 <em>F: "Was wirds Kosten?"</em>  
 <em>A: Wir wissen es noch nicht, aber die Teilnahme soll so günstig wie möglich werden.</em>   
 Vieles hängt davon ab ob wir Partner und Sponsoren finden die bei der Umsetzung unterstützen.  
 Wenn es soweit ist werden wir ein konkretes Angebot machen - bis dahin sind alle Zusagen natürlich unverbindlich.
-
+<br/>
 
 
 Bitte kontaktiert uns unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com) wenn ihr euch unverbindlich vorstellen könnt mit dabei zu sein.
