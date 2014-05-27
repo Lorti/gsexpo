@@ -4,6 +4,7 @@
 * Andranik Ghalustians / Bildschirmsprünge
 * Radiated Pixel
 * Retrobörse
+* Hi Tech Computer - real overclocked gaming
 
 
 * in-ga.me
