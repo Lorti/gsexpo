@@ -60,12 +60,6 @@ Alle Firmen, Vereine, Personen oder Projekte mit Games Kontext sind herzlich wil
 Anmeldeschluss ist Anfang Juli.
 
 
-### Sponsoring
-Logo auf Website, Plakaten und Flyer + Plakatfläche<br/>
-Partnerlogo gross : 500 EUR<br/>
-Partnerlogo klein: 200 EUR<br/>
-<br/>
-Plakatfläche am Event: 100 EUR<br/>
 
 
 
