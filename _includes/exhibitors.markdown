@@ -49,7 +49,7 @@
    </div>
 </div>
 ### Preise
-1 Einheit (ca. 4x2m)	… 40 EUR<br/>
+1 Einheit (ca. 4x2m), alle 3 Tage	… 40 EUR<br/>
 1 Einheit, Einzeltag	… 20 EUR<br/>
 zusätzliche EInheit	    … 120 EUR<br/>
 <br/>
