@@ -1,7 +1,7 @@
 ## Über GameStage Expo
 
 Wir präsentieren in den Hallen der Tabakfabrik Games, Firmen und Projekte.  
-Im besonderen wollen wir :  
+Im Besonderen wollen wir :  
 
 * Den Bekanntheitsgrad von Indie-Games und kleinen Entwicklerfirmen erhöhen
 * Die Vernetzung von Wirtschaft, Kultur, Ausbildung und Community vorantreiben
