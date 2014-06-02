@@ -48,19 +48,24 @@
      </ul>
    </div>
 </div>
-<br/>
-<em>F: "Was wirds Kosten?"</em>  
-<em>A: Wir wissen es noch nicht, aber die Teilnahme soll so günstig wie möglich werden.</em>   
-Vieles hängt davon ab ob wir Partner und Sponsoren finden die bei der Umsetzung unterstützen.  
-Wenn es soweit ist werden wir ein konkretes Angebot machen - bis dahin sind alle Zusagen natürlich unverbindlich.
-<br/>
+### Preise
+1 Einheit (ca. 4x2m)	… 40 EUR
+1 Einheit, Einzeltag	… 20 EUR
+zusätzliche EInheit	    … 120 EUR
 
-
-Bitte kontaktiert uns unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com) wenn ihr euch unverbindlich vorstellen könnt mit dabei zu sein.
-
+Bitte meldet euch unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com) an!
 Alle Firmen, Vereine, Personen oder Projekte mit Games Kontext sind herzlich willkommen!
 
-Eine verbindliche Anmeldung wirds geben wenn alle Konditionen geklärt sind,
-wir versuchen die Teilnahmekosten speziell für kleinere Firmen möglichst gering zu halten!
+Anmeldeschluss ist Anfang Juli.
+
+
+### Sponsoring
+Logo auf Website, Plakaten und Flyer + Plakatfläche
+Partnerlogo gross : 500 EUR
+Partnerlogo klein: 200 EUR
+
+Plakatfläche am Event: 100 EUR
+
+
 
 
