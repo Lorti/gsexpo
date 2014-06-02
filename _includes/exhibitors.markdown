@@ -49,13 +49,14 @@
    </div>
 </div>
 ### Preise
-1 Einheit (ca. 4x2m)	… 40 EUR
-1 Einheit, Einzeltag	… 20 EUR
-zusätzliche EInheit	    … 120 EUR
+1 Einheit (ca. 4x2m)	… 40 EUR<br/>
+1 Einheit, Einzeltag	… 20 EUR<br/>
+zusätzliche EInheit	    … 120 EUR<br/>
+<br/>
 
-Bitte meldet euch unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com) an!
+Bitte meldet euch unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com) an!<br/>
 Alle Firmen, Vereine, Personen oder Projekte mit Games Kontext sind herzlich willkommen!
-
+<br/>
 Anmeldeschluss ist Anfang Juli.
 
 
