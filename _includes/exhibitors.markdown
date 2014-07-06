@@ -37,7 +37,7 @@
        <li>play:vienna</li>
        <li>polycular</li>
        <li>Rainer Sigl</li>
-       <li>Redox Game Labs</li>
+       <li>REDOX Game Labs</li>
        <li>Retroguru</li>
        <li>Richard Pyrker</li>
        <li>Radiated Pixel</li>
