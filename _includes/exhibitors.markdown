@@ -48,16 +48,14 @@
      </ul>
    </div>
 </div>
-### Preise
-1 Einheit (ca. 4x2m), alle 3 Tage	… 40 EUR<br/>
-1 Einheit, Einzeltag	… 20 EUR<br/>
-zusätzliche EInheit	    … 120 EUR<br/>
+### Ausstellerinformation & Preise
+[GSExpo_Ausstellerinformationen.pdf](https://drive.google.com/file/d/0ByKHPcUzsvtBeDg4cHBGYlN3VUU/edit?usp=sharing)
 <br/>
 
 Bitte meldet euch unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com) an!<br/>
 Alle Firmen, Vereine, Personen oder Projekte mit Games Kontext sind herzlich willkommen!
 <br/>
-Anmeldeschluss ist Anfang Juli.
+**Anmeldeschluss verlängert bis 10. August!**
 
 
 
