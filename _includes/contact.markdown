@@ -10,3 +10,8 @@ Unsere Facebook-Gruppe: [facebook.com/GameCraftLinz](https://www.facebook.com/Ga
 
 Der Info Verteiler: [groups.google.com/forum/#!forum/gamestage-info](https://groups.google.com/forum/#!forum/gamestage-info)
 
+Bankverbindung: Verein GameStage
+
+IBAN: AT16 1400 0434 1005 3595
+
+BIC: BAWAATWW
