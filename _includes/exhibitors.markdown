@@ -3,7 +3,7 @@
 <div class="grid">
     <div class="grid__item lap--one-third">
       <ul>
-        <li>Austria Game Jam</li>
+        <li><a href="http://austriagamejam.org/">Austria Game Jam</a></li>
         <li><a href="http://www.autplay.at/">AUTplay</a></li>
         <li><a  href="http://portfolio.mediacube.at/projects/2014-barefoot">Barefoot</a></li>
         <li><a href="http://brokenrul.es/">Broken Rules</a></li>
