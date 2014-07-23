@@ -44,7 +44,7 @@
        <li>Stillalive Studios<br/><a href="http://sonofnor.com/about/">Son of Nor</a></li>
        <li><a href="https://portfolio.multimediaart.at/system/projects/1627/downloads/7036/download.pdf">Tryptichon</a></li>
        <li><a href="http://vienneseblend.org/">Viennese Blend</a></li>
-       <li><a href="http://brokenrul.es/">YoKaisho</a></li>
+       <li><a href="https://www.facebook.com/YoKaisho">YoKaisho</a></li>
        <li>Zeppelin Studio<br/><a href="www.scheingame.com">Schein</a></li>
      </ul>
    </div>
