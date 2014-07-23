@@ -13,12 +13,12 @@
         <li><a href="http://www.retroboerse.de/eurocon-2014/">Eurocon</a></li>
         <li>FH Hagenberg<br/><a href="https://www.facebook.com/glabhagenberg">gLab Hagenberg</a></li>
         <li><a href="http://kommunikationsarchiv.werbungsalzburg.at/wks/projekte/5457/">Flock</a></li>
+        <li>Gamebox</li>
+        <li>Gabor Varga Flipper</li>
       </ul>
     </div><!--
  --><div class="grid__item lap--one-third">
      <ul>
-       <li>Gamebox</li>
-       <li>Gabor Varga Flipper</li>
        <li><a href="http://www.hitech-gamer.com/">Hi Tech Computer</a></li>
        <li><a href="www.holly-games.at">Holly Games</a></li>
        <li>Intel</li>
@@ -28,13 +28,13 @@
        <li><a href="http://www.mipumi.com/">Mipumi</a></li>
        <li>Nvidia</li>
        <li><a href="http://www.otelo.or.at/">Otelo</a></li>
+       <li><a href="http://playvienna.com/">play:vienna</a></li>
+       <li><a href="http://www.polycular.com/">polycular</a></li>
+       <li><a href="http://www.pinball.at">Pindigiland</a></li>
      </ul>
    </div><!--
  --><div class="grid__item lap--one-third">
      <ul>
-       <li><a href="http://playvienna.com/">play:vienna</a></li>
-       <li><a href="http://www.polycular.com/">polycular</a></li>
-       <li><a href="http://www.pinball.at">Pindigiland</a></li>
        <li>Racing Team<br/><a href="http://b35200.simonwallner.at/">Projekt: Beyond 35.200</a></li>
        <li>REDOX Game Labs<br/><a href="http://redox-labs.com/noomix/">Noomix</a></li>
        <li><a href="http://www.retroguru.com">Retroguru</a></li>
