@@ -22,4 +22,24 @@ Plakatfläche am Event: 100 EUR<br/>
 * Vice Alps
 * Carlo Hofmann
 
+### Hotels in deer Nähe
+http://www.jugendherbergsverband.at/herbergen/linz/
+
+http://www.sommerhaus-hotel.at/de/
+
+http://de.steigenberger.com/Linz/Steigenberger-Hotel-Linz
+(Ganz nahe bei der TFL)
+
+http://www.wildermann.cc/
+
+http://www.haus-waltraud.com/
+
+http://www.arcotelhotels.com/de/nike_hotel_linz/
+
+http://www.marriott.com/hotels/travel/lnzcy-courtyard-linz/
+
+http://www.prielmayerhof.at/
+
+bzw mehr hier:
+http://www.messeninfo.de/Hotels-Tabakfabrik-Linz-Entwicklungs-Betriebs-GmbH-Linz-ZS7172.html
 
