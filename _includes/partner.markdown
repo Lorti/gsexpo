@@ -23,6 +23,8 @@ Plakatfläche am Event: 100 EUR<br/>
 * Carlo Hofmann
 
 ### Hotels in der Nähe
-
+Hotelliste:
 http://www.messeninfo.de/Hotels-Tabakfabrik-Linz-Entwicklungs-Betriebs-GmbH-Linz-ZS7172.html
 
+Jugendherberge:
+http://www.jugendherbergsverband.at/herbergen/linz/
