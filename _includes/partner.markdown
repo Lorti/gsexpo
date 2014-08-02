@@ -8,19 +8,15 @@
 
 ### Sponsoren
 
-Beteilige dich als Sponsor!
+* Sproing
+* Cyberith
+* Actionwerk
+* Backlab
 
-Sponsoring Preise:
-Logo auf Website, Plakaten und Flyer + Plakatfläche<br/>
-Partnerlogo gross : 500 EUR<br/>
-Partnerlogo klein: 200 EUR<br/>
-<br/>
-Plakatfläche am Event: 100 EUR<br/>
 
-### Friends
+### Friends & Medienpartner
 * in-ga.me
-* Vice Alps
-* Carlo Hofmann
+
 
 ### Hotels in der Nähe
 Hotelliste:
