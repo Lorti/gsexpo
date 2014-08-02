@@ -23,7 +23,7 @@
        <li><a href="www.holly-games.at">Holly Games</a></li>
        <li>Intel</li>
        <li><a href="http://bastelspiele.jimdo.com/">Kultur & Spiel Linz</a></li>
-       <li>Microsoft</li>
+       <li>Microsoft<br/><a href="http://xbox.com">Xbox One</a></li>
        <li>MSI</li>
        <li><a href="http://www.mipumi.com/">Mipumi</a></li>
        <li>Nvidia</li>
