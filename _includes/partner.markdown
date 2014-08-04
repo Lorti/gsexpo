@@ -19,7 +19,10 @@
 
 
 ### Hotels in der Nähe
-Hotelliste:
+Hotellisten:
+
+http://www.linztourismus.at/unterkuenfte/
+
 http://www.messeninfo.de/Hotels-Tabakfabrik-Linz-Entwicklungs-Betriebs-GmbH-Linz-ZS7172.html
 
 Jugendherberge:
