@@ -8,6 +8,7 @@
         <li><a href="http://www.autplay.at/">AUTplay</a></li>
         <li><a  href="http://portfolio.mediacube.at/projects/2014-barefoot">Barefoot</a></li>
         <li><a href="http://brokenrul.es/">Broken Rules</a></li>
+        <li><a href="http://www.cliffhanger-productions.com/#cliffhanger">Cliffhanger Productions</a></li>
         <li>Cooler Master</li>
         <li><a href="http://www.dreamlandgames.at/">Dreamland Games</a></li>
         <li>Dunium<br/><a href="http://www.dunium.com/">Forked Up</a></li>
