@@ -22,7 +22,7 @@
  --><div class="grid__item lap--one-third">
      <ul>
        <li><a href="http://www.hitech-gamer.com/">Hi Tech Computer</a></li>
-       <li><a href="www.holly-games.at">Holly Games</a></li>
+       <li><a href="http://www.holly-games.at">Holly Games</a></li>
        <li>Intel</li>
        <li><a href="http://www.ilikescifi.com/">ILIKESCIFI</a></li>
        <li><a href="http://bastelspiele.jimdo.com/">Kultur & Spiel Linz</a></li>
