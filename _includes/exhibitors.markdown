@@ -13,6 +13,7 @@
         <li><a href="http://www.dreamlandgames.at/">Dreamland Games</a></li>
         <li>Dunium<br/><a href="http://www.dunium.com/">Forked Up</a></li>
         <li><a href="http://www.retroboerse.de/eurocon-2014/">Eurocon</a></li>
+        <li><a href="http://www.experinox.com/">Experinox</a></li>
         <li>FH Hagenberg<br/><a href="https://www.facebook.com/glabhagenberg">gLab Hagenberg</a></li>
         <li><a href="http://kommunikationsarchiv.werbungsalzburg.at/wks/projekte/5457/">Flock</a></li>
         <li>Gamebox</li>
@@ -25,6 +26,7 @@
        <li><a href="http://www.holly-games.at">Holly Games</a></li>
        <li>Intel</li>
        <li><a href="http://www.ilikescifi.com/">ILIKESCIFI</a></li>
+       <li><a href="http:https://www.facebook.com/pages/Kitogoru-Apps/171147869709390">Kitogoru Games</a></li>
        <li><a href="http://bastelspiele.jimdo.com/">Kultur & Spiel Linz</a></li>
        <li>Microsoft<br/><a href="http://xbox.com">Xbox One</a></li>
        <li>MSI</li>
@@ -39,6 +41,7 @@
  --><div class="grid__item lap--one-third">
      <ul>
        <li>Racing Team<br/><a href="http://b35200.simonwallner.at/">Projekt: Beyond 35.200</a></li>
+       <li>Neon Racer</li>
        <li>REDOX Game Labs<br/><a href="http://redox-labs.com/noomix/">Noomix</a></li>
        <li><a href="http://www.retroguru.com">Retroguru</a></li>
        <li><a href="radiatedpixel.com">Radiated Pixel</a></li>
@@ -54,16 +57,11 @@
 </div>
 
 ### Ausstellerinformation & Preise
-
-Standard Platz 2x4m kostet 40 EUR.
-
 [GSExpo_Ausstellerinformationen.pdf](https://drive.google.com/file/d/0ByKHPcUzsvtBeDg4cHBGYlN3VUU/edit?usp=sharing)
 <br/>
-
-Bitte meldet euch unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com) an!<br/>
-Alle Firmen, Vereine, Personen oder Projekte mit Games Kontext sind herzlich willkommen!
+ANfragen unter [gamestage@radiatedpixel.com](mailto:gamestage@radiatedpixel.com)<br/>
 <br/>
-**Anmeldeschluss verlängert bis 10. August!**
+
 
 
 
