@@ -13,7 +13,7 @@
         <li><a href="http://www.dreamlandgames.at/">Dreamland Games</a></li>
         <li>Dunium<br/><a href="http://www.dunium.com/">Forked Up</a></li>
         <li><a href="http://www.retroboerse.de/eurocon-2014/">Eurocon</a></li>
-        <li><a href="http://www.experinox.com/">Experinox</a></li>
+        <li><a href="http://www.experinox.com/">eXperinox</a></li>
         <li>FH Hagenberg<br/><a href="https://www.facebook.com/glabhagenberg">gLab Hagenberg</a></li>
         <li><a href="http://kommunikationsarchiv.werbungsalzburg.at/wks/projekte/5457/">Flock</a></li>
         <li>Gamebox</li>
