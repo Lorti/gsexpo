@@ -10,6 +10,8 @@
         <li><a href="http://brokenrul.es/">Broken Rules</a></li>
         <li><a href="http://www.cliffhanger-productions.com/#cliffhanger">Cliffhanger Productions</a></li>
         <li>Cooler Master</li>
+        <li>Donau-Universität Krems</br>
+        <a href="http://www.donau-uni.ac.at/de/department/artsmanagement/zentrum/angewandte_spieleforschung/index.php">Zentrum für Angewandte Spieleforschung</a></li>
         <li><a href="http://www.dreamlandgames.at/">Dreamland Games</a></li>
         <li>Dunium<br/><a href="http://www.dunium.com/">Forked Up</a></li>
         <li><a href="http://www.retroboerse.de/eurocon-2014/">Eurocon</a></li>
@@ -35,23 +37,25 @@
        <li>Nvidia</li>
        <li><a href="http://www.otelo.or.at/">Otelo</a></li>
        <li><a href="http://playvienna.com/">play:vienna</a></li>
-       <li><a href="http://www.polycular.com/">polycular</a></li>
        <li><a href="http://www.pinball.at">Pindigiland</a></li>
      </ul>
    </div><!--
  --><div class="grid__item lap--one-third">
      <ul>
        <li>Racing Team<br/><a href="http://b35200.simonwallner.at/">Projekt: Beyond 35.200</a></li>
-       <li>Neon Racer</li>
        <li>REDOX Game Labs<br/><a href="http://redox-labs.com/noomix/">Noomix</a></li>
        <li><a href="http://www.retroguru.com">Retroguru</a></li>
        <li><a href="radiatedpixel.com">Radiated Pixel</a></li>
+       <li><a href="http://www.rudy-games.com/">Rudy Games</a></li>
        <li><a href="http://portfolio.multimediaart.at/projects/2014-simetry">Simetry</a></li>
        <li><a href="http://spraylight.at/">Spraylight</a></li>
        <li>Stillalive Studios<br/><a href="http://sonofnor.com/about/">Son of Nor</a></li>
+       <li>Technikum Wien</br>
+       <a href="http://www.technikum-wien.at/studium/master/game_engineering_und_simulation/">Studiengang Game Engineering und Simulation</a></li>
        <li><a href="https://portfolio.multimediaart.at/system/projects/1627/downloads/7036/download.pdf">Tryptichon</a></li>
        <li><a href="http://vienneseblend.org/">Viennese Blend</a></li>
        <li><a href="https://www.facebook.com/YoKaisho">YoKaisho</a></li>
+       
        <li>Zeppelin Studio<br/><a href="www.scheingame.com">Schein</a></li>
      </ul>
    </div>
