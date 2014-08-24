@@ -31,6 +31,7 @@
        <li>Microsoft<br/><a href="http://xbox.com">Xbox One</a></li>
        <li>MSI</li>
        <li><a href="http://www.mipumi.com/">Mipumi</a></li>
+       <li>Neon Racer</li>
        <li>Nvidia</li>
        <li><a href="http://www.otelo.or.at/">Otelo</a></li>
        <li><a href="http://playvienna.com/">play:vienna</a></li>
