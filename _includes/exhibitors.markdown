@@ -58,7 +58,7 @@
        <li><a href="http://vienneseblend.org/">Viennese Blend</a></li>
        <li><a href="https://www.facebook.com/YoKaisho">YoKaisho</a></li>
        
-       <li>Zeppelin Studio<br/><a href="www.scheingame.com">Schein</a></li>
+       <li>Zeppelin Studio<br/><a href="http://www.scheingame.com">Schein</a></li>
      </ul>
    </div>
 </div>
