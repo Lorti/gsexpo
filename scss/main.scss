@@ -54,6 +54,9 @@ img { max-width: 100%; }
 
 .partnerLogos{
   margin-top: 2em;
+  h3{
+    margin-bottom: 0;
+  }
   .one-quarter{
     width: 24%; // 11:30pm hotfix. I don't know what that grid system is doing but 25% width will break after the third one. 
   }
