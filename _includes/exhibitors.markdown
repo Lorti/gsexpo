@@ -46,7 +46,7 @@
        <li>Racing Team<br/><a href="http://b35200.simonwallner.at/">Projekt: Beyond 35.200</a></li>
        <li>REDOX Game Labs<br/><a href="http://redox-labs.com/noomix/">Noomix</a></li>
        <li><a href="http://www.retroguru.com">Retroguru</a></li>
-       <li><a href="radiatedpixel.com">Radiated Pixel</a></li>
+       <li><a href="http://www.radiatedpixel.com">Radiated Pixel</a></li>
        <li><a href="http://www.rudy-games.com/">Rudy Games</a></li>
        <li>Saturn</li>
        <li><a href="http://portfolio.multimediaart.at/projects/2014-simetry">Simetry</a></li>
