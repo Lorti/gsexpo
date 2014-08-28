@@ -1,7 +1,7 @@
 ## Öffnungszeiten
 Freitag: 12:00 - 22:00  
 Samstag: 09:00 - 20:00  
-Sonntag: 12:00 - 20:00  
+Sonntag: 10:00 - 20:00  
 
 Der Eintritt ist an allen drei Tagen frei.
 
