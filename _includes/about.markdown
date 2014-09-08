@@ -3,7 +3,7 @@ Freitag: 12:00 - 22:00
 Samstag: 09:00 - 20:00  
 Sonntag: 10:00 - 20:00  
 
-Der Eintritt ist an allen drei Tagen frei. Eintritt zur Retrobörse: 3€
+Der Eintritt ist an allen drei Tagen frei. Eintritt zur Retrobörse: 4€
 
 
 ## Über GameStage Expo
@@ -16,8 +16,6 @@ Im Besonderen wollen wir :
 * Eine Community-Werkstatt und Bühne für Innovationen im Spielebereich bieten
 * Impulse und Reflektionen über Produktion, Kunst, Kreativität, Konsum und Kultur anstossen
 * Spiele und Produktion in Österreich greifbar machen 
-
-Zur Verfügung stehen über 4000m2 in Bau1, die Retrobörse wird in der Lösehalle stattfinden.
 
 <img src="http://www.tabakfabrik-linz.at/wp-content/uploads/2014/04/tfl_gesamt_140131.jpg" alt="Tabakfabrik">
 
