@@ -29,6 +29,7 @@
        <li><a href="http://www.holly-games.at">Holly Games</a></li>
        <li>Intel</li>
        <li><a href="http://www.ilikescifi.com/">ILIKESCIFI</a></li>
+       <li>Insideaut</li>
        <li><a href="http://www.kitogoru-games.jp/">Kitogoru Games</a></li>
        <li><a href="http://bastelspiele.jimdo.com/">Kultur & Spiel Linz</a></li>
        <li>Microsoft<br/><a href="http://xbox.com">Xbox One</a></li>
