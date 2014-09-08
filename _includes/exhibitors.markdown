@@ -17,10 +17,8 @@
         <li><a href="http://www.retroboerse.de/eurocon-2014/">Eurocon</a></li>
         <li><a href="http://www.experinox.com/">eXperinox</a></li>
         <li>FH Hagenberg<br/><a href="https://www.facebook.com/glabhagenberg">gLab Hagenberg</a></li>
-        <li><a href="http://kommunikationsarchiv.werbungsalzburg.at/wks/projekte/5457/">Flock</a></li>
         <li>game:lab</li>
         <li>Gamebox</li>
-        <li>Gabor Varga Flipper</li>
       </ul>
     </div><!--
  --><div class="grid__item lap--one-third">
