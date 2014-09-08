@@ -20,6 +20,9 @@
 * Global Game Jam Linz, 24. Jänner 2014, Raumschiff
 * GameStage@Raumschiff, 28.–31. Jänner 2014, Raumschiff
 * GameStage@AEC, 16.Mai 2014 - „Schöne neue Welt“
+* Ars Electronica Festival 2014
+  - GameStage mit Otleo, play:vienna, Kultur & Spiel und Austria Game Jam am U19
+  - Teh House of Pong im Center Foyer
 
 
 
