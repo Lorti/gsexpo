@@ -43,7 +43,7 @@
  --><div class="grid__item lap--one-third">
      <ul>
        <li>Racing Team<br/><a href="http://b35200.simonwallner.at/">Projekt: Beyond 35.200</a></li>
-       <li>REDOX Game Labs<br/><a href="http://redox-labs.com/noomix/">Noomix</a></li>
+       <li>REDOX Game Labs<br/><a href="https://noomix.at ">Noomix</a></li>
        <li><a href="http://www.retroguru.com">Retroguru</a></li>
        <li><a href="http://www.radiatedpixel.com">Radiated Pixel</a></li>
        <li><a href="http://www.rudy-games.com/">Rudy Games</a></li>
